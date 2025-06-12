@@ -1,0 +1,51 @@
+id_venta,empresa_original,monto,fecha,empresa_correcta,id_vendedor,vendedor
+1,data insights,3313.73,2024-01-01,data insights,6,Vendedor 6
+2,snoitulos hcet,4010.69,2024-01-02,quantum solutions,8,Vendedor 8
+3,cyberworks,3270.05,2024-01-03,cyberworks,10,Vendedor 10
+4,inn0vatech,2208.82,2024-01-04,innovatech,2,Vendedor 2
+5,ai dvelopments,1674.25,2024-01-05,ai developments,7,Vendedor 7
+6,tech solutions,2473.76,2024-01-06,tech solutions,1,Vendedor 1
+7,hcet negtxen,4199.21,2024-01-07,nextgen tech,5,Vendedor 5
+8,quantum solutions inc,2738.25,2024-01-08,quantum solutions,8,Vendedor 8
+9,hcetavonni,2829.7,2024-01-09,data insights,6,Vendedor 6
+10,techsolutions,4956.4,2024-01-10,tech solutions,1,Vendedor 1
+11,nextgen tech inc,2180.12,2024-01-11,nextgen tech,5,Vendedor 5
+12,ai devel0pments,1515.8,2024-01-12,ai developments,7,Vendedor 7
+13,quantumsolutions,2462.22,2024-01-13,quantum solutions,8,Vendedor 8
+14,techsolutions,2896.32,2024-01-14,tech solutions,1,Vendedor 1
+15,quantum solutions inc,4386.4,2024-01-15,quantum solutions,8,Vendedor 8
+16,hcetavonni,1021.73,2024-01-16,data insights,6,Vendedor 6
+17,nextgen tech,3820.94,2024-01-17,nextgen tech,5,Vendedor 5
+18,globl markets,4885.68,2024-01-18,global markets,3,Vendedor 3
+19,data insights,2976.12,2024-01-19,data insights,6,Vendedor 6
+20,skrowrebyc,4877.05,2024-01-20,tech solutions,1,Vendedor 1
+21,hcet negtxen,1530.79,2024-01-21,nextgen tech,5,Vendedor 5
+22,cybeworks,4294.17,2024-01-22,cyberworks,10,Vendedor 10
+23,tech solutions inc,4418.07,2024-01-23,tech solutions,1,Vendedor 1
+24,data insights inc,3663.31,2024-01-24,data insights,6,Vendedor 6
+25,bluecean ltd,1415.94,2024-01-25,blueocean ltd,9,Vendedor 9
+26,proc erutuf,4362.07,2024-01-26,future corp,4,Vendedor 4
+27,stnempoleved ia,3877.22,2024-01-27,innovatech,2,Vendedor 2
+28,hcet negtxen,4431.71,2024-01-28,nextgen tech,5,Vendedor 5
+29,futurecorp,3760.71,2024-01-29,future corp,4,Vendedor 4
+30,proc erutuf,2277.29,2024-01-30,future corp,4,Vendedor 4
+31,tech solutions,4415.7,2024-01-31,tech solutions,1,Vendedor 1
+32,skrowrebyc,1249.73,2024-02-01,tech solutions,1,Vendedor 1
+33,nextgen tech,4289.92,2024-02-02,nextgen tech,5,Vendedor 5
+34,data insights,1746.28,2024-02-03,data insights,6,Vendedor 6
+35,futurecorp,4617.65,2024-02-04,future corp,4,Vendedor 4
+36,blueocean ltd,2332.12,2024-02-05,blueocean ltd,9,Vendedor 9
+37,nextgentech,1210.06,2024-02-06,nextgen tech,5,Vendedor 5
+38,techsolutions,2059.14,2024-02-07,tech solutions,1,Vendedor 1
+39,future c0rp,2985.46,2024-02-08,future corp,4,Vendedor 4
+40,blueocean ltd,2449.53,2024-02-09,blueocean ltd,9,Vendedor 9
+41,datainsights,2858.97,2024-02-10,data insights,6,Vendedor 6
+42,ai dvelopments,1154.6,2024-02-11,ai developments,7,Vendedor 7
+43,cyberworks,745.12,2024-02-12,cyberworks,10,Vendedor 10
+44,proc erutuf,3193.34,2024-02-13,future corp,4,Vendedor 4
+45,ai d3v3lopm3nts,2590.33,2024-02-14,ai developments,7,Vendedor 7
+46,innovatech,1107.25,2024-02-15,innovatech,2,Vendedor 2
+47,ai devel0pments,1102.48,2024-02-16,ai developments,7,Vendedor 7
+48,datainsights,1111.58,2024-02-17,data insights,6,Vendedor 6
+49,blu3oc3an ltd,2702.81,2024-02-18,blueocean ltd,9,Vendedor 9
+50,blueocean ltd,1336.02,2024-02-19,blueocean ltd,9,Vendedor 9
